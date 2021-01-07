@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MonstersRolodex/x/static/css/main.517a3509.chunk.css",
-    "main.js": "/MonstersRolodex/x/static/js/main.711baaa4.chunk.js",
-    "main.js.map": "/MonstersRolodex/x/static/js/main.711baaa4.chunk.js.map",
-    "runtime-main.js": "/MonstersRolodex/x/static/js/runtime-main.44333da2.js",
-    "runtime-main.js.map": "/MonstersRolodex/x/static/js/runtime-main.44333da2.js.map",
-    "static/js/2.3dfd3ca0.chunk.js": "/MonstersRolodex/x/static/js/2.3dfd3ca0.chunk.js",
-    "static/js/2.3dfd3ca0.chunk.js.map": "/MonstersRolodex/x/static/js/2.3dfd3ca0.chunk.js.map",
-    "static/js/3.a75f96e1.chunk.js": "/MonstersRolodex/x/static/js/3.a75f96e1.chunk.js",
-    "static/js/3.a75f96e1.chunk.js.map": "/MonstersRolodex/x/static/js/3.a75f96e1.chunk.js.map",
-    "index.html": "/MonstersRolodex/x/index.html",
-    "static/css/main.517a3509.chunk.css.map": "/MonstersRolodex/x/static/css/main.517a3509.chunk.css.map",
-    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/MonstersRolodex/x/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+    "main.css": "/MonstersRolodex/static/css/main.517a3509.chunk.css",
+    "main.js": "/MonstersRolodex/static/js/main.711baaa4.chunk.js",
+    "main.js.map": "/MonstersRolodex/static/js/main.711baaa4.chunk.js.map",
+    "runtime-main.js": "/MonstersRolodex/static/js/runtime-main.235187d5.js",
+    "runtime-main.js.map": "/MonstersRolodex/static/js/runtime-main.235187d5.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/MonstersRolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/MonstersRolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/MonstersRolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/MonstersRolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/MonstersRolodex/index.html",
+    "static/css/main.517a3509.chunk.css.map": "/MonstersRolodex/static/css/main.517a3509.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/MonstersRolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44333da2.js",
+    "static/js/runtime-main.235187d5.js",
     "static/js/2.3dfd3ca0.chunk.js",
     "static/css/main.517a3509.chunk.css",
     "static/js/main.711baaa4.chunk.js"
